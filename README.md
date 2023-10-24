@@ -18,7 +18,7 @@ flutter pub get
 ### Como usar
 Clone o repositório:
 ```bash
-git clone https://github.com/lennonmartins/tabuada_flutter.git
+git clone https://github.com/lennonmartins/tabuada_flutterx.git
 ```
 Navegue até o diretório do projeto:
 ```bash
